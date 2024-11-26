@@ -1,0 +1,24 @@
+#-----------------------------------------------------------
+# Vivado v2024.1 (64-bit)
+# SW Build 5076996 on Wed May 22 18:37:14 MDT 2024
+# IP Build 5075265 on Wed May 22 21:45:21 MDT 2024
+# SharedData Build 5076995 on Wed May 22 18:29:18 MDT 2024
+# Start of session at: Wed Nov 27 01:37:02 2024
+# Process ID: 7820
+# Current directory: C:/Users/Lenovo/OneDrive/Masast/CS 223/verilog projects/7_Segment_Driver/7_Segment_Driver.runs/impl_1
+# Command line: vivado.exe -log single_digit_7segment_display.vdi -applog -product Vivado -messageDb vivado.pb -mode batch -source single_digit_7segment_display.tcl -notrace
+# Log file: C:/Users/Lenovo/OneDrive/Masast/CS 223/verilog projects/7_Segment_Driver/7_Segment_Driver.runs/impl_1/single_digit_7segment_display.vdi
+# Journal file: C:/Users/Lenovo/OneDrive/Masast/CS 223/verilog projects/7_Segment_Driver/7_Segment_Driver.runs/impl_1\vivado.jou
+# Running On        :DESKTOP-G9J75GE
+# Platform          :Windows Server 2016 or Windows 10
+# Operating System  :19045
+# Processor Detail  :Intel(R) Core(TM) i5-10300H CPU @ 2.50GHz
+# CPU Frequency     :2496 MHz
+# CPU Physical cores:4
+# CPU Logical cores :8
+# Host memory       :8451 MB
+# Swap memory       :17471 MB
+# Total Virtual     :25923 MB
+# Available Virtual :5182 MB
+#-----------------------------------------------------------
+source single_digit_7segment_display.tcl -notrace
